@@ -97,18 +97,3 @@ vercel
 ```bash
 # Build
 bun run build
-
-# Upload folder 'dist' to Netlify
-```
-
-## ข้อกำหนดการส่งงาน
-
-1. ✅ Push โค้ดขึ้น GitHub (Public Repository)
-2. ✅ Deploy โปรเจกต์
-3. ✅ ส่งลิงก์ทั้งสอง:
-   - GitHub Repository URL
-   - Deployed Website URL
-
-## License
-
-MIT
